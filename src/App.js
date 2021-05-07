@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <div>这是新加入的一行</div>
         <a
           className="App-link"
           href="https://reactjs.org"
