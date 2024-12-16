@@ -11,6 +11,7 @@ function App() {
         </p>
         <div>这是新加入的一行</div>
         <div>之前修改文件错了，我重新提交下</div>
+        <div>我是别的分支上合并过来的代码，并提前合并到master分支上了</div>
         <a
           className="App-link"
           href="https://reactjs.org"
