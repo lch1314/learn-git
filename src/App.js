@@ -13,6 +13,7 @@ function App() {
         <div>之前修改文件错了，我重新提交下</div>
         <div>我是别的分支上合并过来的代码，并提前合并到master分支上了</div>
         <div>feature分支上第一次提交</div>
+        <div>feature分支上第二次提交</div>
         <a
           className="App-link"
           href="https://reactjs.org"
