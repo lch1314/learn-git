@@ -14,6 +14,7 @@ function App() {
         <div>我是别的分支上合并过来的代码，并提前合并到master分支上了</div>
         <div>我是dev分支上做的修改</div>
         <div>我是master分支上的第16行做的修改</div>
+        <div>我是dev2分支做的修改</div>
         <a
           className="App-link"
           href="https://reactjs.org"
